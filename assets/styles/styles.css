@@ -1,5 +1,5 @@
 :root {
-    --brand-color: #1E73BE;
+    --brand-color: #0B9F85;
     --light-brand-color: #EF57F2;
     --text-color:  #000000;
     --light-text-color: #7C7C7C;
@@ -154,3 +154,35 @@ p {
   }
 
 /* Typography Ends here */  
+
+/* Theme CSS starts here */
+/* #haru(h371bd1a72c8a0ce8) #css starts */
+.headerh371bd1a72c8a0ce8{
+    background-color: var(--brand-color)
+}
+.headerh371bd1a72c8a0ce8 .navbar-expand-lg{
+    background-color: var(--brand-color)
+}
+.headerh371bd1a72c8a0ce8 .navbar-light .navbar-nav .nav-link{
+    color: #E2F5F3
+}
+.headerh371bd1a72c8a0ce8 .navbar-light .navbar-nav .nav-link:hover{
+    color: #E2F5F3
+}
+.headerh371bd1a72c8a0ce8 .navbar-light .navbar-nav .nav-link:visited{
+    color: #E2F5F3
+}
+.headerh371bd1a72c8a0ce8 .btn{
+    color: #E2F5F3;
+    padding-right: 25px
+}
+.headerh371bd1a72c8a0ce8 .btn:hover{
+    color: #E2F5F3
+}
+.headerh371bd1a72c8a0ce8 .btnStyle{
+  border: 1px solid white;
+  padding-right: 30px;
+  padding-left: 30px
+}
+
+/* #haru(h371bd1a72c8a0ce8) #css ends */

@@ -186,3 +186,47 @@ p {
 }
 
 /* #haru(h371bd1a72c8a0ce8) #css ends */
+
+/* #asur(a3d4b7ad05aa7803) #css starts  */
+.abouta3d4b7ad05aa7803 .DescriptionHeading {
+    font-weight:bolder;
+    font-size: 50px
+}
+
+.abouta3d4b7ad05aa7803 .DescriptionPara {
+    color: #666666;
+    font-size: 18px
+}
+
+.abouta3d4b7ad05aa7803 .descriptionImage img{
+    height: 400px;
+    width: 500px
+}
+
+.abouta3d4b7ad05aa7803 .searchBtn{
+    background-color:#0EA187;
+    color: white
+}
+.abouta3d4b7ad05aa7803  .stroke { 
+        color: white; 
+        -webkit-text-stroke-width: 1px; 
+        -webkit-text-stroke-color: #0EA187
+    } 
+    .abouta3d4b7ad05aa7803 .form-control,
+    .abouta3d4b7ad05aa7803 .input-group-append{
+        border: none;
+        box-shadow: 0 3px 4px -1px rgba(99, 99, 99, 0.2)
+    }
+
+    .abouta3d4b7ad05aa7803 .form-control:hover,
+    .abouta3d4b7ad05aa7803 .form-control:focus{
+        box-shadow: 0 3px 4px -1px rgba(99, 99, 99, 0.2)
+    }
+    .abouta3d4b7ad05aa7803 .input-group-append:focus{
+        box-shadow: 0 3px 4px -1px rgba(99, 99, 99, 0.2)
+    }
+    .abouta3d4b7ad05aa7803 .dropdown-item:active{
+        background-color: #0EA187
+    }
+
+/* #asur(a3d4b7ad05aa7803) #css ends  */

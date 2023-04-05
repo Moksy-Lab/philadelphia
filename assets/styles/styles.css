@@ -269,3 +269,18 @@ p {
     border-bottom: 1px solid black
 }
 /* # casun(a7a9c88535c485db) #css ends  */
+
+/* #quack(82b7ca311d27746a) #css starts  */
+.quickLinkq82b7ca311d27746a .btn{
+    font-weight:bold;
+    border: 1px solid;
+    margin: 11px
+}
+.quickLinkq82b7ca311d27746a .btn:hover{
+    background-color: #0A9F85;
+    color: rgb(255, 255, 255)
+}
+.quickLinkq82b7ca311d27746a .hp{
+ color: #130D43
+}
+/* #quack(82b7ca311d27746a) #css ends  */

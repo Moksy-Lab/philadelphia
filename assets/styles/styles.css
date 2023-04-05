@@ -638,3 +638,57 @@ padding-right: 30px
     }
 }
 /* #takur(b6fe35d6e912f44a) #css ends  */
+
+    /* #fanul(b6c9fcc0294384085) #css starts */
+    .footerb6c9fcc0294384085 a {
+        color: white;
+        text-decoration: none;
+        transition: all 0.3s
+    }
+
+    .footerb6c9fcc0294384085 button {
+        background: none
+    }
+
+    .footerb6c9fcc0294384085 a:hover,
+    .footerb6c9fcc0294384085 a:focus {
+        color: white;
+        text-decoration: none
+    }
+
+    .footerb6c9fcc0294384085 .form-control {
+        background: white
+    }
+
+    .footerb6c9fcc0294384085 .form-control:focus {
+        background: #a5f0e2;
+        box-shadow: none;
+        color: black
+    }
+
+    .footerb6c9fcc0294384085 footer {
+        background: #0B9F85
+    }
+
+    .footerb6c9fcc0294384085 .mini-footer {
+        background: #192027;
+        text-align: center;
+        padding: 15px 0
+    }
+
+    .footerb6c9fcc0294384085 .mini-footer p {
+        margin: 0;
+        line-height: 26px;
+        font-size: 15px;
+        color: #999
+    }
+
+    .footerb6c9fcc0294384085 .mini-footer p a {
+        color: #5867dd
+    }
+
+    .footerb6c9fcc0294384085 .mini-footer p a:hover {
+        color: #34bfa3
+    }
+
+    /* #fanul(b6c9fcc0294384085) #css ends */

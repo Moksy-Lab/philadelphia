@@ -431,3 +431,29 @@ p {
     margin-left: -20;
 }
     /* #penguin(p61d8d97decf5bdbd) #css ends  */    
+
+/* #asuri(d5a7a1ff7718e70e) #css starts  */
+.aboutd5a7a1ff7718e70e .DescriptionHeading {       
+    color: #000000;
+    font-size: 33px;
+    margin-top: 55px
+}
+
+.aboutd5a7a1ff7718e70e .DescriptionPara {    
+    font-size: 18px
+}
+
+.aboutd5a7a1ff7718e70e .descriptionImage img{
+    height: 420px;
+    width: 500px
+}
+.aboutd5a7a1ff7718e70e .btn{
+    background-color: #0B9F85;
+    color: white;
+    padding-left: 30px;
+padding-right: 30px
+}
+.aboutd5a7a1ff7718e70e .btn:hover{     
+    color: white   
+}
+/* #asuri(d5a7a1ff7718e70e) #css ends  */

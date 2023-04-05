@@ -371,4 +371,63 @@ p {
         }
 /* #banu(e54caba42c027d0f) #css ends  */
     
-    
+    /* #penguin(p61d8d97decf5bdbd) #css starts  */
+    .productsp61d8d97decf5bdbd .card-product .img-wrap {
+        border-radius: 3px 3px 0 0;
+        overflow: hidden;
+        position: relative;
+        height: 220px;
+    }
+
+    .productsp61d8d97decf5bdbd .card-product .img-wrap img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+
+    }
+
+    .productsp61d8d97decf5bdbd .title {
+        color: #162927
+    }
+
+    .productsp61d8d97decf5bdbd .card-product .info-wrap {
+        overflow: hidden;
+        padding-top: 10px;
+        padding-left: 15px;
+    }
+
+    .productsp61d8d97decf5bdbd .card-product .bottom-wrap {
+        padding-top: 5px;
+    padding-left: 16px;
+    padding-bottom: 15px;
+    }
+
+    .productsp61d8d97decf5bdbd .btn-sm {
+        color: #4A4167;
+        background: none;
+        border: 1px solid #36B099
+    }
+
+    .productsp61d8d97decf5bdbd .label-rating {
+        margin-right: 10px;
+        color: #333;
+        display: inline-block;
+        font-weight: bold;
+        vertical-align: middle
+    }
+
+    .productsp61d8d97decf5bdbd .price-new {
+        font-weight: bold;
+        color: #36B099
+    }
+    .productsp61d8d97decf5bdbd li::marker{
+        color: aqua;
+    }
+    .productsp61d8d97decf5bdbd .badge{
+    font-size: 13px;
+   
+}
+.productsp61d8d97decf5bdbd .ml{
+    margin-left: -20;
+}
+    /* #penguin(p61d8d97decf5bdbd) #css ends  */    

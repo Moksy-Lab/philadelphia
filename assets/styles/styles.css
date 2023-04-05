@@ -229,3 +229,43 @@ p {
     }
 
 /* #asur(a3d4b7ad05aa7803) #css ends  */
+
+/* # casun(a7a9c88535c485db) #css starts  */
+.clientsa7a9c88535c485db img {
+    height: 40px;
+    width: 100px
+}
+
+.clientsa7a9c88535c485db .H2 {
+    margin-left: 20px
+}
+
+.clientsa7a9c88535c485db .BG {
+    background-color: #E2F1F4;
+    padding: 40px
+}
+
+@media (min-width: 500px) {
+    .clientsa7a9c88535c485db .row {
+        text-align: center
+    }
+
+    .clientsa7a9c88535c485db .col-md-2 {
+        margin-top: 14px
+    }
+}
+
+@media (min-width: 768px) {
+    .clientsa7a9c88535c485db .row {
+        text-align: center
+    }
+}
+
+.clientsa7a9c88535c485db .Trusted {
+    color: #0B9F85
+}
+
+.clientsa7a9c88535c485db .BR {
+    border-bottom: 1px solid black
+}
+/* # casun(a7a9c88535c485db) #css ends  */

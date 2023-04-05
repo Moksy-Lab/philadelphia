@@ -203,13 +203,13 @@ p {
 }
 
 .abouta3d4b7ad05aa7803 .searchBtn{
-    background-color:#0EA187;
+    background-color:var(--brand-color);
     color: white
 }
 .abouta3d4b7ad05aa7803  .stroke { 
         color: white; 
         -webkit-text-stroke-width: 1px; 
-        -webkit-text-stroke-color: #0EA187
+        -webkit-text-stroke-color: var(--brand-color)
     } 
     .abouta3d4b7ad05aa7803 .form-control,
     .abouta3d4b7ad05aa7803 .input-group-append{
@@ -225,7 +225,7 @@ p {
         box-shadow: 0 3px 4px -1px rgba(99, 99, 99, 0.2)
     }
     .abouta3d4b7ad05aa7803 .dropdown-item:active{
-        background-color: #0EA187
+        background-color: var(--brand-color)
     }
 
 /* #asur(a3d4b7ad05aa7803) #css ends  */
@@ -262,7 +262,7 @@ p {
 }
 
 .clientsa7a9c88535c485db .Trusted {
-    color: #0B9F85
+    color: var(--brand-color)
 }
 
 .clientsa7a9c88535c485db .BR {
@@ -277,7 +277,7 @@ p {
     margin: 11px
 }
 .quickLinkq82b7ca311d27746a .btn:hover{
-    background-color: #0A9F85;
+    background-color: var(--brand-color);
     color: rgb(255, 255, 255)
 }
 .quickLinkq82b7ca311d27746a .hp{

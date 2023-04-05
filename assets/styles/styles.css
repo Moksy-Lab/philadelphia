@@ -284,3 +284,33 @@ p {
  color: #130D43
 }
 /* #quack(82b7ca311d27746a) #css ends  */
+
+    /* #sukna(aabca5c0b873aff8) #css starts  */
+    .slideraabca5c0b873aff8 .card img{
+        height: 50px;
+        width: 50px;
+    }
+    .slideraabca5c0b873aff8 .btnStyle{
+        background-color: #0B9F85
+    }
+    .slideraabca5c0b873aff8 .icon{
+        color: white
+    }
+    .slideraabca5c0b873aff8 .card-text{
+        font-weight: bold
+    }
+    .slideraabca5c0b873aff8 .card:hover{    
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    }
+    .slideraabca5c0b873aff8 img{
+        text-align: center;
+    }
+
+     @media only screen and (max-width: 600px) {
+        .slideraabca5c0b873aff8 .indicators{
+            margin-left: 50px;
+}
+}
+    /* #sukna(aabca5c0b873aff8) #css ends  */
+
+    

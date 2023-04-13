@@ -230,45 +230,25 @@ p {
 
 /* #asur(a3d4b7ad05aa7803) #css ends  */
 
-/* # casun(a7a9c88535c485db) #css starts  */
-.clientsa7a9c88535c485db img {
-    height: 40px;
-    width: 100px
+/* ======================= clifton start ====================== */
+.clifton .our-clients img.logo {
+    width: 170px;
+    margin-bottom: 30px;
 }
-
-.clientsa7a9c88535c485db .H2 {
-    margin-left: 20px
+.clifton .our-clients .client-logos {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
-
-.clientsa7a9c88535c485db .BG {
-    background-color: #E2F1F4;
-    padding: 40px
+.clifton .heading-two-custom-cls{
+ color:var(--brand-color)
 }
-
-@media (min-width: 500px) {
-    .clientsa7a9c88535c485db .row {
-        text-align: center
+/* iPhone 5 (portrait) */
+@media only screen and (max-width: 320px) {
+    .client-logos{
+        margin-left: 50px;
     }
-
-    .clientsa7a9c88535c485db .col-md-2 {
-        margin-top: 14px
-    }
-}
-
-@media (min-width: 768px) {
-    .clientsa7a9c88535c485db .row {
-        text-align: center
-    }
-}
-
-.clientsa7a9c88535c485db .Trusted {
-    color: var(--brand-color)
-}
-
-.clientsa7a9c88535c485db .BR {
-    border-bottom: 1px solid black
-}
-/* # casun(a7a9c88535c485db) #css ends  */
+  }
+/* ======================= clifton end ====================== */
 
 /* #quack(82b7ca311d27746a) #css starts  */
 .quickLinkq82b7ca311d27746a .btn{

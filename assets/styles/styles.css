@@ -25,14 +25,7 @@ body {
  font-family: var(--primary-font);
 }
 
-section{
-    border-bottom: none;
-    margin-bottom: 25px;
-}
 
-footer #footer{
-    margin-bottom: 0px;
-}
 
 a {   
     color: var(--text-color);
